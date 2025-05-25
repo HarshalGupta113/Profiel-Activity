@@ -25,11 +25,11 @@ A modern Android application showcasing profile management functionality with a 
 
 ### Home Screen
 
-![Home Screen](screenShot/home_screen.png)
+<img src="screenShot/home_screen.png" alt="Home Screen" width="300"/>
 
 ### Profile Screen
 
-![Profile Screen](screenShot/profile_screen.png)
+<img src="screenShot/profile_screen.png" alt="Profile Screen" width="300"/>
 
 ## 🚀 Getting Started
 
@@ -57,10 +57,11 @@ A modern Android application showcasing profile management functionality with a 
    - Click "OK"
 
 3. **Build the project**
+
    ```bash
    # For Linux/Mac
    ./gradlew assembleDebug
-   
+
    # For Windows
    .\gradlew.bat assembleDebug
    ```
@@ -84,10 +85,8 @@ To build your own APK from the source code:
 ## 📱 Download APK
 
 ### Direct Download
-- **Latest APK**: [Download profile_activity.apk](apk/profile_activity.apk)
 
-### Alternative Download Links
-Download the latest APK from the [Releases](https://github.com/harshalgupta113/profile-activity-android/releases) section.
+- **Latest APK**: [Download profile_activity.apk](apk/profile_activity.apk)
 
 ### Installation Instructions
 
@@ -179,7 +178,3 @@ We welcome contributions to improve the Profile Activity app! Here's how you can
 - Material Design guidelines by Google
 - Android development community for best practices
 - Icons and design elements from Material Design Icons
-
-**Made with ❤️ by [Your Name]**
-
-_Don't forget to ⭐ this repository if you found it helpful!_
