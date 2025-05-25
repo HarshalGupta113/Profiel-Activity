@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Profile Activity</string>
+    
+    <!-- Profile Activity Strings -->
+    <string name="profile">Profile</string>
+    <string name="app_member">App Member</string>
+    <string name="membership_description">Enjoy personalized profile features</string>
+    <string name="premium">PREMIUM</string>
+    <string name="credit_score_label">Credit Score:</string>
+    <string name="payment_methods">Payment Methods</string>
+    <string name="payment_methods_desc">Manage your cards and UPI</string>
+    <string name="rewards_cashback">Rewards &amp; Cashback</string>
+    <string name="rewards_desc">Track your earnings</string>
+    <string name="refer_friends">Refer Friends</string>
+    <string name="referral_desc">Earn rewards for every referral</string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="help_desc">Get help when you need it</string>
+    <string name="about_app">About App</string>
+    <string name="about_desc">Learn more about the app</string>
+</resources>

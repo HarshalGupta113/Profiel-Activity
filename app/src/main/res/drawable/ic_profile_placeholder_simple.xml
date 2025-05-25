@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="80dp"
+    android:height="80dp"
+    android:viewportWidth="80"
+    android:viewportHeight="80">
+    
+    <!-- Solid background circle -->
+    <path
+        android:fillColor="@color/accent_color"
+        android:pathData="M40,40m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0"/>
+    
+    <!-- Person silhouette with modern proportions -->
+    <!-- Head -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,16c8.84,0 16,7.16 16,16c0,8.84 -7.16,16 -16,16c-8.84,0 -16,-7.16 -16,-16C24,23.16 31.16,16 40,16z"/>
+    
+    <!-- Body/Torso -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,52c-17.67,0 -32,14.33 -32,32v-8c0,-13.25 10.75,-24 24,-24h16c13.25,0 24,10.75 24,24v8C72,66.33 57.67,52 40,52z"/>
+    
+    <!-- Inner shadow for depth -->
+    <path
+        android:fillColor="#6C63FF"
+        android:fillAlpha="0.2"
+        android:pathData="M40,30c-1.1,0 -2,0.9 -2,2s0.9,2 2,2s2,-0.9 2,-2S41.1,30 40,30z"/>
+</vector>
